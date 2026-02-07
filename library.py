@@ -6,6 +6,6 @@ def register_student(name):
 
 if __name__=="__main__":
     main()
-    registered_student("Student1")
+    register_student("Student1")
 
 
